@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.top-bar{
+  background-color: red;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.counter{
+  display: flex;
+  justify-content: space-between;
+  padding: 5% 20%;
+}
+.stars{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
